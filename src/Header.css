@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #141313;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .search-bar {
+    width: 50%;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+  }
+  .logo{
+    color: white;
+    font-size: 20px;
+  }
+  input{
+   margin-right: 250px;
+  }

@@ -1,0 +1,23 @@
+
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  padding: 16px;
+}
+
+.video-item {
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  height: 500px;
+}
+
+.thumbnail {
+  width: 100%;
+  height: 70%;
+  display: block;
+}
+.title{
+  font: bold;
+}

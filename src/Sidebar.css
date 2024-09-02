@@ -1,0 +1,18 @@
+.sidebar {
+    width: 240px;
+    background-color: #f8f8f8;
+    padding: 10px;
+    border-right: 1px solid #ddd;
+    background-color: rgb(34, 33, 33);
+  }
+  
+  .sidebar-item {
+    margin-top: 50px;
+    padding: 25px;
+    cursor: pointer;
+    color: white;
+  }
+  
+  .sidebar-item:hover {
+    background-color: #151414;
+  }
